@@ -1,0 +1,4 @@
+IndexController
+ [x]  404
+ [x] Index action
+

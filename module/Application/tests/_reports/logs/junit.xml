@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="2" assertions="6" failures="0" errors="0" time="0.584567">
+    <testsuite name="IndexControllerTest" file="/home/m4ur1c10/Web/zf2napratica/module/Application/tests/src/Application/Controller/IndexControllerTest.php" tests="2" assertions="6" failures="0" errors="0" time="0.584567">
+      <testcase name="test404" class="IndexControllerTest" file="/home/m4ur1c10/Web/zf2napratica/module/Application/tests/src/Application/Controller/IndexControllerTest.php" line="25" assertions="1" time="0.284392"/>
+      <testcase name="testIndexAction" class="IndexControllerTest" file="/home/m4ur1c10/Web/zf2napratica/module/Application/tests/src/Application/Controller/IndexControllerTest.php" line="35" assertions="5" time="0.300175"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
